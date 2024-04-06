@@ -1,7 +1,7 @@
 package graphsProblem;
 
 import java.util.ArrayList;
-
+//(UNDIRECTED GRAPH)
 public class CycleDetection {
     static class Edge {
         int source;
