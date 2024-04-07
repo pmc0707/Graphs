@@ -79,7 +79,7 @@ public class DijkstrasAlgorithm {
         System.out.println();
     }
     public static void main(String[] args) {
-        int vertexNum = 7;
+        int vertexNum = 6;
         ArrayList<Edge> [] graph = new ArrayList[vertexNum];
         createGraph(graph);
 
