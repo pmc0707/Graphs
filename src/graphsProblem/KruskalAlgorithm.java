@@ -26,7 +26,7 @@ public class KruskalAlgorithm {
 
     }
     static int n =4;
-    static int parent[] = new int[n];
+    static int[] parent = new int[n];
     static int [] rank = new int[n];
 
     public static void init(){
